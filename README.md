@@ -1,5 +1,5 @@
 # SNN-Object-Detection-
-Similar to the brain, neurons in spiking neural networks (SNNs) communicate via short pulses called spikes that arrive in continuous time—in striking contrast to artificial neural networks (ANNs) where neurons communicate by the exchange of real-valued signals in discrete time. While ANNs are the basis of modern artificial intelligence with impressive achievements, their high performance on various tasks comes at the expense of high energy consumption.
+Similar to the brain, neurons in spiking neural networks (SNNs) communicate via short pulses called spikes that arrive in continuous time—in striking contrast to artificial neural networks (ANNs) where neurons communicate by the exchange of realvalued signals in discrete time. While ANNs are the basis of modern artificial intelligence with impressive achievements, their high performance on various tasks comes at the expense of high energy consumption.
 
 In this repository the proposed methods is a combination of spiking layers with VGG for fast and accurate object detection is represented.
 
